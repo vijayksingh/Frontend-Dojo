@@ -30,7 +30,7 @@
 - [ ] Service Workers
 - [ ] PWA
 - [ ] Page life cycle
-- [ ] [Object Oriented Programming in JS](https://github.com/4GeeksAcademy/object-oriented-javascript-tutorial-exercises)
+- [x] [Object Oriented Programming in JS](https://github.com/4GeeksAcademy/object-oriented-javascript-tutorial-exercises)
 
 **JS Tricks and Wisdom (Wisdom from the Community)**
 - [ ] [Module revealing pattern](https://stackoverflow.com/questions/5647258/how-to-use-revealing-module-pattern-in-javascript/5647397#5647397)
