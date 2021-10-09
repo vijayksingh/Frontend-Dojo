@@ -16,10 +16,12 @@
 	- [Build your own Promise](https://youtu.be/4GpwM8FmVgQ?list=PLP29wDx6QmW7IaD762Rf_Awfr1Wxz0Amq)
 - [ ] Async Await
 	- Build your own Async Await
-- [ ]  Closure
-- [ ]  Scope
-- [ ]  Prototypes
+- [ ]  [Closure, Scope](https://www.github.com/workshopper/scope-chains-closures)
+- [ ]  [Prototypes](https://github.com/sporto/planetproto)
 - [ ]  Hoisting
+- [ ]  [Currying](https://github.com/kishorsharma/currying-workshopper)
+- [ ]  [Generators](https://github.com/isRuslan/learn-generators)
+- [ ]  [Iterators](https://github.com/jesstelford/esnext-generation)
 - [ ]  Event Loop
 - [ ]  Server Side Rendering
 - [ ] Lazy Loading
