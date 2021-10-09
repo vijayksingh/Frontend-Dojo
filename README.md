@@ -1,15 +1,14 @@
-### Frontend DOJO
+## Frontend DOJO
 
-
-#### Table of Contents
+### Table of Contents
 - [Frontend DOJO](#frontend-dojo)
   - [Table of Contents](#table-of-contents)
-  - [JS](#js)
-  - [CSS](#css)
-  - [HTML](#html)
-- [Resources](#resources)
-  - [JS](#js-1)
-  - [CSS](#css-1)
+    - [JS](#js)
+    - [CSS](#css)
+    - [HTML](#html)
+  - [Resources](#resources)
+    - [JS](#js-1)
+    - [CSS](#css-1)
 
 #### JS
 **Core JS Concepts**
