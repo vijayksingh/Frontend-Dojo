@@ -1,0 +1,3 @@
+[submodule "JS-OOPS/JS-OOPS"]
+	path = JS-OOPS/JS-OOPS
+	url = https://github.com/4GeeksAcademy/object-oriented-javascript-tutorial-exercises.git
