@@ -1,4 +1,14 @@
-### Learn the basics
+### Frontend DOJO
+
+#### Table of Contents
+- [Frontend DOJO](#frontend-dojo)
+  - [Table of Contents](#table-of-contents)
+  - [JS](#js)
+  - [CSS](#css)
+  - [HTML](#html)
+- [Resources](#resources)
+  - [JS](#js-1)
+  - [CSS](#css-1)
 
 #### JS
 **Core JS Concepts**
@@ -74,4 +84,3 @@
 
 #### CSS
 - [An overview of CSS](https://www.taniarascia.com/overview-of-css-concepts/#html-fundamentals)
-- # Frontend-Dojo
