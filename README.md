@@ -65,9 +65,15 @@
 #### CSS
 **Core CSS Concepts**
 - [ ] [Box Model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)
+	- [ ] [Practice Box Model](https://web.dev/learn/css/box-model/)
+- [ ] [Selectors](https://flukeout.github.io/)
 - [ ] [Flex](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+	- [ ] [Practice Flexbox](http://flexboxfroggy.com/)
 - [ ] [Grid](https://yoksel.github.io/grid-cheatsheet/)
+	- [ ] [Practice Grid](http://cssgridgarden.com/)
+- [ ] [Layout](https://learnlayout.com/display.html) 
 - [ ] [Specificity](https://css-tricks.com/specifics-on-css-specificity/)
+	- [ ] [Practice Specifity](https://web.dev/learn/css/specificity/) 
 - [ ] [Position](https://css-tricks.com/almanac/properties/p/position/)
 - [ ] [inline vs block](https://alligator.io/css/display-inline-vs-inline-block/)
 
