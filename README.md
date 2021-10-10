@@ -14,8 +14,10 @@
 **Core JS Concepts**
 - [ ] Promises
 	- [Build your own Promise](https://youtu.be/4GpwM8FmVgQ?list=PLP29wDx6QmW7IaD762Rf_Awfr1Wxz0Amq)
+	- [Promise Workshop](https://github.com/stevekane/promise-it-wont-hurt)
 - [ ] Async Await
-	- Build your own Async Await
+	- [Build your own Async Await](https://www.youtube.com/watch?v=Em2jqwROdZc&t=1s)
+	- [Async Await Workshop](https://github.com/bulkan/async-you)
 - [ ]  [Closure, Scope](https://www.github.com/workshopper/scope-chains-closures)
 - [ ]  [Prototypes](https://github.com/sporto/planetproto)
 - [ ]  Hoisting
@@ -31,6 +33,8 @@
 - [ ] PWA
 - [ ] Page life cycle
 - [x] [Object Oriented Programming in JS](https://github.com/4GeeksAcademy/object-oriented-javascript-tutorial-exercises)
+- [ ] [VDOM](https://bigfrontend.dev/list/ejesqbtkapzp66x1ff)
+- [ ] [Tree / DOM Traversal](https://bigfrontend.dev/list/xqxkzgtkotb3qyekog)
 
 **JS Tricks and Wisdom (Wisdom from the Community)**
 - [ ] [Module revealing pattern](https://stackoverflow.com/questions/5647258/how-to-use-revealing-module-pattern-in-javascript/5647397#5647397)
