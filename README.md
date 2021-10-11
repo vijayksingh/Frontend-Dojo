@@ -13,13 +13,13 @@
 #### JS
 **Core JS Concepts**
 - [ ] Promises
-	- [Build your own Promise](https://youtu.be/4GpwM8FmVgQ?list=PLP29wDx6QmW7IaD762Rf_Awfr1Wxz0Amq)
-	- [Promise Workshop](https://github.com/stevekane/promise-it-wont-hurt)
+	- [ ] [Build your own Promise](https://youtu.be/4GpwM8FmVgQ?list=PLP29wDx6QmW7IaD762Rf_Awfr1Wxz0Amq)
+	- [x] [Promise Workshop](https://github.com/stevekane/promise-it-wont-hurt)
 - [ ] Async Await
-	- [Build your own Async Await](https://www.youtube.com/watch?v=Em2jqwROdZc&t=1s)
-	- [Async Await Workshop](https://github.com/bulkan/async-you)
+	- [ ] [Build your own Async Await](https://www.youtube.com/watch?v=Em2jqwROdZc&t=1s)
+	- [ ] [Async Await Workshop](https://github.com/bulkan/async-you)
 - [ ]  [Closure, Scope](https://www.github.com/workshopper/scope-chains-closures)
-- [ ]  [Prototypes](https://github.com/sporto/planetproto)
+- [x]  [Prototypes](https://github.com/sporto/planetproto)
 - [ ]  Hoisting
 - [ ]  [Currying](https://github.com/kishorsharma/currying-workshopper)
 - [ ]  [Generators](https://github.com/isRuslan/learn-generators)
