@@ -1,10 +1,8 @@
+"use strict";
 
-    'use strict';
-    
-    var promise = new Promise(setTimeout(() => "FULFILLED", 300));
-    var promise = new Promise(function (fulfilled) {
-         setTimeout(() => "FULFILLED", 300)
-    });
-    
-    // Your solution here
-promise.then((val) => console.log(val));
+var promise = new Promise(function (fulfilled, rejected) {
+  setTimeout(() => fulfilled("FULFILLED!"), 300);
+});
+
+// Your solution here
+promise.then(console.log);
